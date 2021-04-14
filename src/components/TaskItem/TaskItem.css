@@ -6,13 +6,13 @@
   margin-bottom: 8px;
   width: 100%;
   padding: 8px 4px;
-  color: #11152b;
+  color: #01030a;
   font-size: 14px;
 }
 
 .task-item input[type="text"] {
   border: none;
-
+  color: black;
   font-size: 14px;
   display: block;
   width: 100%;

@@ -10,7 +10,7 @@
   color: #2feabb;
   padding: 4px;
   font-weight: bold;
-  background-color: rgba(0, 0, 0, 0.513);
+  background-color: rgba(0, 0, 0, 0.246);
   text-align: center;
 }
 
@@ -24,6 +24,7 @@
   text-align: center;
   border: 1px dashed white;
   border-radius: 4px;
+  color: #2feabb;
   padding: 4px;
 }
 
@@ -36,12 +37,12 @@
   border: none;
   border-radius: 3px;
   color: #11152b;
-  background: #71fff3;
+  background: #f9fffe;
   transition: background-color 0.3s;
 }
 
 .tasklist .btn:hover {
-  background-color: #0091a8;
+  background-color: #2feabb;
   cursor: pointer;
 }
 
